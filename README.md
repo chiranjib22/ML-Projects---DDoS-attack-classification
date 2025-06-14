@@ -53,7 +53,7 @@ A Distributed Denial-of-Service (DDoS) attack is an attempt to disrupt the norma
 
 ## 🔗 GitHub Repository
 
-Feel free to explore and fork this project: [DDoS Attack Classification](https://github.com/chiranjib22/DDOS-Attack-Classification-ML)
+Feel free to explore and fork this project: [DDoS Attack Classification](https://github.com/chiranjib22/ML-Projects---DDoS-attack-classification)
 
 ## 👨‍💻 Contributors
 
